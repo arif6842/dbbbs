@@ -1,0 +1,14 @@
+/* for mobile */
+@media(max-width:576px){
+    .navbar-brand{
+        
+    }
+    .team-meamber{
+        background-color: rgb(192, 151, 230);
+
+    }
+}
+/* for laptop */
+@media(max-width:968px){
+
+}

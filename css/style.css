@@ -1,0 +1,157 @@
+*body{
+    padding: 0px;
+    margin: 0px;
+    overflow-x: hidden;
+    /* navbar start here */
+}
+.navbar.navbar{
+    background-color: rgb(247, 240, 240);
+}
+.navbar-nav{
+    text-transform: uppercase;
+    font-weight: 600;
+}
+.navbar-nav li a:hover{
+    background-color: darkgoldenrod;
+}
+.navbar-brand{
+    color: white;
+}
+.search {
+    height: 40px;
+    width: 80%;
+    border-radius: 60px;
+    outline: none;
+    border: 2px solid rgb(218, 109, 109);
+    margin-right: -35px;
+
+}
+.btn0{
+    height: 40px;
+    width: 40%;
+    outline: none;
+    border: none;
+    background-color: rgb(240, 30, 30);
+    border-radius: 60px;
+    color: white;
+    font-weight: 700;
+}
+    /* navbar End here */
+    /* main section start here */
+.main{
+    background: url(../img/pexels-iconcom-719609.jpg);
+    background-size: cover;
+    background-position: 50% 50%;
+    height:100vh;
+    width: 100%;
+}
+.main h1{
+    padding-top: 20px;
+    color: white;
+    font-weight: 600;
+}
+.btn1{
+    height: 45px;
+    width: 35%;
+    outline: none;
+    border: none;
+    background-color: rgb(240, 30, 30);
+    border-radius: 60px;
+    color: white;
+    font-weight: 700;
+
+
+}
+    /* main section end here */
+    .new{
+        background-color: rgb(250, 248, 241);
+
+    }
+    .img-new{
+        height: 160px;
+        width: 120px;
+    }
+
+    /* slider img start here */
+    .slider{
+        background-color: rgb(245, 242, 242);
+    }
+    .slider-txt{
+        padding: 40px;
+        text-align: center;
+        color: red;
+
+
+    }
+    .slider-txt h2{
+        font-size: 35px;
+        font-weight: 700;
+
+    }
+
+    .carousel-caption p{
+        padding-bottom: 180px;
+        font-size: 2rem;
+        font-weight: 700;
+        color: red;
+    
+    }
+    .slider-img{
+        height: 420px;
+        width: 100%;
+    }
+    /* brand section start here */
+    .brand{
+        background-color: rgb(250, 248, 241);
+    }
+    .brand-txt{
+        color: blue;
+        font-size: 35px;
+        font-weight: 700;
+    }
+    .card-brand-img{
+        height: 320px;
+        width: 50%;
+    }
+    /* section-2 start here */
+    .brand-two{
+        background-color: azure;
+    }
+    .card-brand-img-two{
+        height: 320px;
+        width: 50%;
+    }
+    /* team-member section start here */
+    .team-meamber{
+        background-color: rgb(250, 248, 241);
+
+    }
+    .team-txt{
+        padding: 60px;
+        text-align: center;
+    }
+    .team-txt h3{
+        font-size: 30px;
+        font-weight: 600;
+        color: blue;
+
+    }
+    .card-img-meamber{
+        height: 200px;
+        width: 100%;
+        background-size: cover;
+    }
+    /* part two start here */
+    .team-meamber-two{
+        background-color: azure;
+
+    }
+
+            /* team-member section End here */
+            /* footer part start here */
+            .footer{
+                background-color: black;
+            }
+                        /* footer part start here */
+
+
